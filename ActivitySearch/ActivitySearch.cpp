@@ -41,6 +41,8 @@ do
 	while (i < n) // step 3
 	{
 		ctr++;
+		if (arr[i] == item)
+		{
 
 
 
